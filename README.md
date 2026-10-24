@@ -76,6 +76,7 @@ found" rather than naming what was wrong, and gave a false warning on #8 (Crossr
 | `scripts/ask-claude.mjs`                                         | Gives a list to Claude through the `claude` CLI                                                                                        |
 | `scripts/grade.mjs`, `scripts/grade-refrunner.mjs`               | Grade an answer against an answer key                                                                                                  |
 | `scripts/pool.mjs`, `scripts/build-list.mjs`, `scripts/meta.mjs` | How the 85-reference list was built from Crossref                                                                                      |
+| `RELEASING.md`, `.zenodo.json`                                   | How releases are archived on Zenodo, and the record's metadata                                                                         |
 
 ## Checking our grading
 
@@ -126,5 +127,6 @@ these six.
   do not have to take our word for it.
 - The answer key comes from Crossref, which is also RefRunner's main source.
   Where Crossref is wrong (#30's pages), RefRunner agrees with it.
-- One model (Claude Opus 5.5), one month (October 2026), three runs per
-  setup.
+- One model (Claude Opus 5.5), one month (October 2026). Three runs of each
+  search setup; plain chat ran once on the 85-reference list (three times on
+  the 16).
