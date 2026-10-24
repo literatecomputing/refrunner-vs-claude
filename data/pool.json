@@ -1,0 +1,2158 @@
+[
+ {
+  "doi": "10.1002/jee.20564",
+  "authors": [
+   [
+    "Emberley",
+    "Amanda C."
+   ],
+   [
+    "Choi",
+    "Dong San"
+   ],
+   [
+    "Williams",
+    "Taylor"
+   ],
+   [
+    "Loui",
+    "Michael C."
+   ]
+  ],
+  "year": 2023,
+  "title": "Engineering survivors: Students who persisted through academic failures",
+  "subtitle": "",
+  "journal": "Journal of Engineering Education",
+  "volume": "113",
+  "issue": "1",
+  "loc": "12-29",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.learninstruc.2012.05.003",
+  "authors": [
+   [
+    "D’Mello",
+    "Sidney"
+   ],
+   [
+    "Lehman",
+    "Blair"
+   ],
+   [
+    "Pekrun",
+    "Reinhard"
+   ],
+   [
+    "Graesser",
+    "Art"
+   ]
+  ],
+  "year": 2014,
+  "title": "Confusion can be beneficial for learning",
+  "subtitle": "",
+  "journal": "Learning and Instruction",
+  "volume": "29",
+  "issue": "",
+  "loc": "153-170",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1111/bjet.12994",
+  "authors": [
+   [
+    "Qin",
+    "Fen"
+   ],
+   [
+    "Li",
+    "Kai"
+   ],
+   [
+    "Yan",
+    "Jianyuan"
+   ]
+  ],
+  "year": 2020,
+  "title": "Understanding user trust in artificial intelligence‐based educational systems: Evidence from China",
+  "subtitle": "",
+  "journal": "British Journal of Educational Technology",
+  "volume": "51",
+  "issue": "5",
+  "loc": "1693-1710",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.patcog.2012.07.021",
+  "authors": [
+   [
+    "Arbelaitz",
+    "Olatz"
+   ],
+   [
+    "Gurrutxaga",
+    "Ibai"
+   ],
+   [
+    "Muguerza",
+    "Javier"
+   ],
+   [
+    "Pérez",
+    "Jesús M."
+   ],
+   [
+    "Perona",
+    "Iñigo"
+   ]
+  ],
+  "year": 2013,
+  "title": "An extensive comparative study of cluster validity indices",
+  "subtitle": "",
+  "journal": "Pattern Recognition",
+  "volume": "46",
+  "issue": "1",
+  "loc": "243-256",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1093/jamia/ocaa268",
+  "authors": [
+   [
+    "Quinn",
+    "Thomas P"
+   ],
+   [
+    "Senadeera",
+    "Manisha"
+   ],
+   [
+    "Jacobs",
+    "Stephan"
+   ],
+   [
+    "Coghlan",
+    "Simon"
+   ],
+   [
+    "Le",
+    "Vuong"
+   ]
+  ],
+  "year": 2020,
+  "title": "Trust and medical AI: the challenges we face and the expertise needed to overcome them",
+  "subtitle": "",
+  "journal": "Journal of the American Medical Informatics Association",
+  "volume": "28",
+  "issue": "4",
+  "loc": "890-894",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1371/journal.pone.0171207",
+  "authors": [
+   [
+    "Rovira",
+    "Sergi"
+   ],
+   [
+    "Puertas",
+    "Eloi"
+   ],
+   [
+    "Igual",
+    "Laura"
+   ]
+  ],
+  "year": 2017,
+  "title": "Data-driven system to predict academic grades and dropout",
+  "subtitle": "",
+  "journal": "PLOS ONE",
+  "volume": "12",
+  "issue": "2",
+  "loc": "e0171207",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.caeo.2024.100166",
+  "authors": [
+   [
+    "Parker",
+    "Luke"
+   ],
+   [
+    "Carter",
+    "Chris"
+   ],
+   [
+    "Karakas",
+    "Alice"
+   ],
+   [
+    "Loper",
+    "A. Jane"
+   ],
+   [
+    "Sokkar",
+    "Ahmad"
+   ]
+  ],
+  "year": 2024,
+  "title": "Graduate instructors navigating the AI frontier: The role of ChatGPT in higher education",
+  "subtitle": "",
+  "journal": "Computers and Education Open",
+  "volume": "6",
+  "issue": "",
+  "loc": "100166",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.3390/informatics10040078",
+  "authors": [
+   [
+    "Dengel",
+    "Andreas"
+   ],
+   [
+    "Gehrlein",
+    "Rupert"
+   ],
+   [
+    "Fernes",
+    "David"
+   ],
+   [
+    "Görlich",
+    "Sebastian"
+   ],
+   [
+    "Maurer",
+    "Jonas"
+   ],
+   [
+    "Pham",
+    "Hai Hoang"
+   ],
+   [
+    "Großmann",
+    "Gabriel"
+   ],
+   [
+    "Eisermann",
+    "Niklas Dietrich genannt"
+   ]
+  ],
+  "year": 2023,
+  "title": "Qualitative Research Methods for Large Language Models: Conducting Semi-Structured Interviews with ChatGPT and BARD on Computer Science Education",
+  "subtitle": "",
+  "journal": "Informatics",
+  "volume": "10",
+  "issue": "4",
+  "loc": "78",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1177/1745691610388763",
+  "authors": [
+   [
+    "Rajaram",
+    "Suparna"
+   ],
+   [
+    "Pereira-Pasarin",
+    "Luciane P."
+   ]
+  ],
+  "year": 2010,
+  "title": "Collaborative Memory: Cognitive Research and Theory",
+  "subtitle": "",
+  "journal": "Perspectives on Psychological Science",
+  "volume": "5",
+  "issue": "6",
+  "loc": "649-663",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.2478/jdis-2020-0009",
+  "authors": [
+   [
+    "Wang",
+    "Kai"
+   ],
+   [
+    "Zhang",
+    "Yu"
+   ]
+  ],
+  "year": 2020,
+  "title": "Topic Sentiment Analysis in Online Learning Community from College Students",
+  "subtitle": "",
+  "journal": "Journal of Data and Information Science",
+  "volume": "5",
+  "issue": "2",
+  "loc": "33-61",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1191/1478088706qp063oa",
+  "authors": [
+   [
+    "Braun",
+    "Virginia"
+   ],
+   [
+    "Clarke",
+    "Victoria"
+   ]
+  ],
+  "year": 2006,
+  "title": "Using thematic analysis in psychology",
+  "subtitle": "",
+  "journal": "Qualitative Research in Psychology",
+  "volume": "3",
+  "issue": "2",
+  "loc": "77-101",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.compedu.2022.104582",
+  "authors": [
+   [
+    "Xia",
+    "Qi"
+   ],
+   [
+    "Chiu",
+    "Thomas K.F."
+   ],
+   [
+    "Lee",
+    "Min"
+   ],
+   [
+    "Sanusi",
+    "Ismaila Temitayo"
+   ],
+   [
+    "Dai",
+    "Yun"
+   ],
+   [
+    "Chai",
+    "Ching Sing"
+   ]
+  ],
+  "year": 2022,
+  "title": "A self-determination theory (SDT) design approach for inclusive and diverse artificial intelligence (AI) education",
+  "subtitle": "",
+  "journal": "Computers &amp; Education",
+  "volume": "189",
+  "issue": "",
+  "loc": "104582",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1109/access.2021.3082408",
+  "authors": [
+   [
+    "Abdeljaber",
+    "Hikmat A."
+   ]
+  ],
+  "year": 2021,
+  "title": "Automatic Arabic Short Answers Scoring Using Longest Common Subsequence and Arabic WordNet",
+  "subtitle": "",
+  "journal": "IEEE Access",
+  "volume": "9",
+  "issue": "",
+  "loc": "76433-76445",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.4028/www.scientific.net/amr.753-755.3039",
+  "authors": [
+   [
+    "Wang",
+    "Na"
+   ],
+   [
+    "Xu",
+    "Lin"
+   ],
+   [
+    "Li",
+    "Li Yao"
+   ],
+   [
+    "Xu",
+    "Lu Xiong"
+   ]
+  ],
+  "year": 2013,
+  "title": "Design and Implementation of an Automatic Scoring Subjective Question System Based on Domain Ontology",
+  "subtitle": "",
+  "journal": "Advanced Materials Research",
+  "volume": "753-755",
+  "issue": "",
+  "loc": "3039-3042",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1109/te.2022.3205962",
+  "authors": [
+   [
+    "Da Re",
+    "Lorenza"
+   ],
+   [
+    "Bonelli",
+    "Roberta"
+   ],
+   [
+    "Gerosa",
+    "Andrea"
+   ]
+  ],
+  "year": 2023,
+  "title": "Formative Tutoring: A Program for the Empowerment of Engineering Students",
+  "subtitle": "",
+  "journal": "IEEE Transactions on Education",
+  "volume": "66",
+  "issue": "2",
+  "loc": "163-173",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1111/bjet.13088",
+  "authors": [
+   [
+    "Kahn",
+    "Ken"
+   ],
+   [
+    "Winters",
+    "Niall"
+   ]
+  ],
+  "year": 2021,
+  "title": "Constructionism and AI: A history and possible futures",
+  "subtitle": "",
+  "journal": "British Journal of Educational Technology",
+  "volume": "52",
+  "issue": "3",
+  "loc": "1130-1142",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.icte.2020.07.003",
+  "authors": [
+   [
+    "Ullah",
+    "Mohammad Aman"
+   ],
+   [
+    "Marium",
+    "Syeda Maliha"
+   ],
+   [
+    "Begum",
+    "Shamim Ara"
+   ],
+   [
+    "Dipa",
+    "Nibadita Saha"
+   ]
+  ],
+  "year": 2020,
+  "title": "An algorithm and method for sentiment analysis using the text and emoticon",
+  "subtitle": "",
+  "journal": "ICT Express",
+  "volume": "6",
+  "issue": "4",
+  "loc": "357-360",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.35699/1983-3652.2022.37275",
+  "authors": [
+   [
+    "Hinojosa",
+    "Mauricio"
+   ],
+   [
+    "Derpich",
+    "Iván"
+   ],
+   [
+    "Alfaro",
+    "Miguel"
+   ],
+   [
+    "Ruete",
+    "David"
+   ],
+   [
+    "Caroca",
+    "Alejandro"
+   ],
+   [
+    "Gatica",
+    "Gustavo"
+   ]
+  ],
+  "year": 2022,
+  "title": "Procedimiento de agrupación de estudiantes según riesgo de abandono para mejorar la gestión estudiantil en educación superior",
+  "subtitle": "",
+  "journal": "Texto Livre",
+  "volume": "15",
+  "issue": "",
+  "loc": "e37275",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.3991/ijet.v5i2.1235",
+  "authors": [
+   [
+    "Barker",
+    "Trevor"
+   ]
+  ],
+  "year": 2010,
+  "title": "An Automated Feedback System Based on Adaptive Testing: Extending the Model",
+  "subtitle": "",
+  "journal": "International Journal of Emerging Technologies in Learning (iJET)",
+  "volume": "5",
+  "issue": "2",
+  "loc": "11",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1177/0018720812465081",
+  "authors": [
+   [
+    "Merritt",
+    "Stephanie M."
+   ],
+   [
+    "Heimbaugh",
+    "Heather"
+   ],
+   [
+    "LaChapell",
+    "Jennifer"
+   ],
+   [
+    "Lee",
+    "Deborah"
+   ]
+  ],
+  "year": 2012,
+  "title": "I Trust It, but I Don’t Know Why",
+  "subtitle": "Effects of Implicit Attitudes Toward Automation on Trust in an Automated System",
+  "journal": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+  "volume": "55",
+  "issue": "3",
+  "loc": "520-534",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.bushor.2018.03.007",
+  "authors": [
+   [
+    "Jarrahi",
+    "Mohammad Hossein"
+   ]
+  ],
+  "year": 2018,
+  "title": "Artificial intelligence and the future of work: Human-AI symbiosis in organizational decision making",
+  "subtitle": "",
+  "journal": "Business Horizons",
+  "volume": "61",
+  "issue": "4",
+  "loc": "577-586",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.3390/app14114532",
+  "authors": [
+   [
+    "Wijanto",
+    "Maresha Caroline"
+   ],
+   [
+    "Yong",
+    "Hwan-Seung"
+   ]
+  ],
+  "year": 2024,
+  "title": "Combining Balancing Dataset and SentenceTransformers to Improve Short Answer Grading Performance",
+  "subtitle": "",
+  "journal": "Applied Sciences",
+  "volume": "14",
+  "issue": "11",
+  "loc": "4532",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1148/radiol.230163",
+  "authors": [
+   [
+    "Shen",
+    "Yiqiu"
+   ],
+   [
+    "Heacock",
+    "Laura"
+   ],
+   [
+    "Elias",
+    "Jonathan"
+   ],
+   [
+    "Hentel",
+    "Keith D."
+   ],
+   [
+    "Reig",
+    "Beatriu"
+   ],
+   [
+    "Shih",
+    "George"
+   ],
+   [
+    "Moy",
+    "Linda"
+   ]
+  ],
+  "year": 2023,
+  "title": "ChatGPT and Other Large Language Models Are Double-edged Swords",
+  "subtitle": "",
+  "journal": "Radiology",
+  "volume": "307",
+  "issue": "2",
+  "loc": "e230163",
+  "isArticleNo": true
+ },
+ {
+  "doi": "10.3389/feduc.2021.657895",
+  "authors": [
+   [
+    "Papadakis",
+    "Stamatis"
+   ]
+  ],
+  "year": 2021,
+  "title": "The Impact of Coding Apps to Support Young Children in Computational Thinking and Computational Fluency. A Literature Review",
+  "subtitle": "",
+  "journal": "Frontiers in Education",
+  "volume": "6",
+  "issue": "",
+  "loc": "657895",
+  "isArticleNo": true
+ },
+ {
+  "doi": "10.1177/0165551515610989",
+  "authors": [
+   [
+    "Gutierrez",
+    "Fernando"
+   ],
+   [
+    "Dou",
+    "Dejing"
+   ],
+   [
+    "Fickas",
+    "Stephen"
+   ],
+   [
+    "Wimalasuriya",
+    "Daya"
+   ],
+   [
+    "Zong",
+    "Hui"
+   ]
+  ],
+  "year": 2016,
+  "title": "A hybrid ontology-based information extraction system",
+  "subtitle": "",
+  "journal": "Journal of Information Science",
+  "volume": "42",
+  "issue": "6",
+  "loc": "798-820",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1038/s42256-023-00644-2",
+  "authors": [
+   [
+    "Milano",
+    "Silvia"
+   ],
+   [
+    "McGrane",
+    "Joshua A."
+   ],
+   [
+    "Leonelli",
+    "Sabina"
+   ]
+  ],
+  "year": 2023,
+  "title": "Large language models challenge the future of higher education",
+  "subtitle": "",
+  "journal": "Nature Machine Intelligence",
+  "volume": "5",
+  "issue": "4",
+  "loc": "333-334",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.cedpsych.2014.04.002",
+  "authors": [
+   [
+    "Gogol",
+    "Katarzyna"
+   ],
+   [
+    "Brunner",
+    "Martin"
+   ],
+   [
+    "Goetz",
+    "Thomas"
+   ],
+   [
+    "Martin",
+    "Romain"
+   ],
+   [
+    "Ugen",
+    "Sonja"
+   ],
+   [
+    "Keller",
+    "Ulrich"
+   ],
+   [
+    "Fischbach",
+    "Antoine"
+   ],
+   [
+    "Preckel",
+    "Franzis"
+   ]
+  ],
+  "year": 2014,
+  "title": "“My Questionnaire is Too Long!” The assessments of motivational-affective constructs with three-item and single-item measures",
+  "subtitle": "",
+  "journal": "Contemporary Educational Psychology",
+  "volume": "39",
+  "issue": "3",
+  "loc": "188-205",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.15678/eber.2023.110302",
+  "authors": [
+   [
+    "Korzynski",
+    "Pawel"
+   ],
+   [
+    "Mazurek",
+    "Grzegorz"
+   ],
+   [
+    "Krzypkowska",
+    "Pamela"
+   ],
+   [
+    "Kurasinski",
+    "Artur"
+   ]
+  ],
+  "year": 2023,
+  "title": "Artificial intelligence prompt engineering as a new digital competence: Analysis of generative AI technologies such as ChatGPT",
+  "subtitle": "",
+  "journal": "Entrepreneurial Business and Economics Review",
+  "volume": "11",
+  "issue": "3",
+  "loc": "25-37",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1007/s40593-021-00270-2",
+  "authors": [
+   [
+    "Schiff",
+    "Daniel"
+   ]
+  ],
+  "year": 2022,
+  "title": "Education for AI, not AI for Education: The Role of Education and Ethics in National AI Policy Strategies",
+  "subtitle": "",
+  "journal": "International Journal of Artificial Intelligence in Education",
+  "volume": "32",
+  "issue": "3",
+  "loc": "527-563",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.5120/237-391",
+  "authors": [
+   [
+    "Ghosh",
+    "Siddhartha"
+   ],
+   [
+    "Fatima",
+    "Dr. Sameen S"
+   ]
+  ],
+  "year": 2010,
+  "title": "Design of an Automated Essay Grading (AEG) System in Indian Context",
+  "subtitle": "",
+  "journal": "International Journal of Computer Applications",
+  "volume": "1",
+  "issue": "11",
+  "loc": "72-77",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.artint.2018.07.007",
+  "authors": [
+   [
+    "Miller",
+    "Tim"
+   ]
+  ],
+  "year": 2019,
+  "title": "Explanation in artificial intelligence: Insights from the social sciences",
+  "subtitle": "",
+  "journal": "Artificial Intelligence",
+  "volume": "267",
+  "issue": "",
+  "loc": "1-38",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1007/s43681-021-00096-7",
+  "authors": [
+   [
+    "Akgun",
+    "Selin"
+   ],
+   [
+    "Greenhow",
+    "Christine"
+   ]
+  ],
+  "year": 2021,
+  "title": "Artificial intelligence in education: Addressing ethical challenges in K-12 settings",
+  "subtitle": "",
+  "journal": "AI and Ethics",
+  "volume": "2",
+  "issue": "3",
+  "loc": "431-440",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1186/s41239-020-0177-7",
+  "authors": [
+   [
+    "Alyahyan",
+    "Eyman"
+   ],
+   [
+    "Düştegör",
+    "Dilek"
+   ]
+  ],
+  "year": 2020,
+  "title": "Predicting academic success in higher education: literature review and best practices",
+  "subtitle": "",
+  "journal": "International Journal of Educational Technology in Higher Education",
+  "volume": "17",
+  "issue": "1",
+  "loc": "3",
+  "isArticleNo": true
+ },
+ {
+  "doi": "10.1016/j.ijhcs.2022.102792",
+  "authors": [
+   [
+    "Dikmen",
+    "Murat"
+   ],
+   [
+    "Burns",
+    "Catherine"
+   ]
+  ],
+  "year": 2022,
+  "title": "The effects of domain knowledge on trust in explainable AI and task performance: A case of peer-to-peer lending",
+  "subtitle": "",
+  "journal": "International Journal of Human-Computer Studies",
+  "volume": "162",
+  "issue": "",
+  "loc": "102792",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.procs.2021.05.091",
+  "authors": [
+   [
+    "ElNaka",
+    "Abdelrahman"
+   ],
+   [
+    "Nael",
+    "Omar"
+   ],
+   [
+    "Afifi",
+    "Hadeel"
+   ],
+   [
+    "Sharaf",
+    "Nada"
+   ]
+  ],
+  "year": 2021,
+  "title": "AraScore: Investigating Response-Based Arabic Short Answer Scoring",
+  "subtitle": "",
+  "journal": "Procedia Computer Science",
+  "volume": "189",
+  "issue": "",
+  "loc": "282-291",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1023/a:1025779619903",
+  "authors": [
+   [
+    "Leacock",
+    "Claudia"
+   ],
+   [
+    "Chodorow",
+    "Martin"
+   ]
+  ],
+  "year": 2003,
+  "title": "C-rater: Automated Scoring of Short-Answer Questions",
+  "subtitle": "",
+  "journal": "Computers and the Humanities",
+  "volume": "37",
+  "issue": "4",
+  "loc": "389-405",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.3390/app12199467",
+  "authors": [
+   [
+    "Mohamed Nafuri",
+    "Ahmad Fikri"
+   ],
+   [
+    "Sani",
+    "Nor Samsiah"
+   ],
+   [
+    "Zainudin",
+    "Nur Fatin Aqilah"
+   ],
+   [
+    "Rahman",
+    "Abdul Hadi Abd"
+   ],
+   [
+    "Aliff",
+    "Mohd"
+   ]
+  ],
+  "year": 2022,
+  "title": "Clustering Analysis for Classifying Student Academic Performance in Higher Education",
+  "subtitle": "",
+  "journal": "Applied Sciences",
+  "volume": "12",
+  "issue": "19",
+  "loc": "9467",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1007/s11257-018-9203-z",
+  "authors": [
+   [
+    "Gardner",
+    "Josh"
+   ],
+   [
+    "Brooks",
+    "Christopher"
+   ]
+  ],
+  "year": 2018,
+  "title": "Student success prediction in MOOCs",
+  "subtitle": "",
+  "journal": "User Modeling and User-Adapted Interaction",
+  "volume": "28",
+  "issue": "2",
+  "loc": "127-203",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1518/hfes.46.1.50.30392",
+  "authors": [
+   [
+    "Lee",
+    "John D."
+   ],
+   [
+    "See",
+    "Katrina A."
+   ]
+  ],
+  "year": 2004,
+  "title": "Trust in Automation: Designing for Appropriate Reliance",
+  "subtitle": "",
+  "journal": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+  "volume": "46",
+  "issue": "1",
+  "loc": "50-80",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1098/rstb.2023.0148",
+  "authors": [
+   [
+    "Di Paolo",
+    "Laura Desirèe"
+   ],
+   [
+    "White",
+    "Ben"
+   ],
+   [
+    "Guénin-Carlut",
+    "Avel"
+   ],
+   [
+    "Constant",
+    "Axel"
+   ],
+   [
+    "Clark",
+    "Andy"
+   ]
+  ],
+  "year": 2024,
+  "title": "Active inference goes to school: the importance of active learning in the age of large language models",
+  "subtitle": "",
+  "journal": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+  "volume": "379",
+  "issue": "1911",
+  "loc": "20230148",
+  "isArticleNo": true
+ },
+ {
+  "doi": "10.1109/access.2023.3268224",
+  "authors": [
+   [
+    "Shoufan",
+    "Abdulhadi"
+   ]
+  ],
+  "year": 2023,
+  "title": "Exploring Students’ Perceptions of ChatGPT: Thematic Analysis and Follow-Up Survey",
+  "subtitle": "",
+  "journal": "IEEE Access",
+  "volume": "11",
+  "issue": "",
+  "loc": "38805-38818",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.3390/philosophies6030053",
+  "authors": [
+   [
+    "Williams",
+    "Robert"
+   ],
+   [
+    "Yampolskiy",
+    "Roman"
+   ]
+  ],
+  "year": 2021,
+  "title": "Understanding and Avoiding AI Failures: A Practical Guide",
+  "subtitle": "",
+  "journal": "Philosophies",
+  "volume": "6",
+  "issue": "3",
+  "loc": "53",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1186/s13040-023-00339-9",
+  "authors": [
+   [
+    "Meyer",
+    "Jesse G."
+   ],
+   [
+    "Urbanowicz",
+    "Ryan J."
+   ],
+   [
+    "Martin",
+    "Patrick C. N."
+   ],
+   [
+    "O’Connor",
+    "Karen"
+   ],
+   [
+    "Li",
+    "Ruowang"
+   ],
+   [
+    "Peng",
+    "Pei-Chen"
+   ],
+   [
+    "Bright",
+    "Tiffani J."
+   ],
+   [
+    "Tatonetti",
+    "Nicholas"
+   ],
+   [
+    "Won",
+    "Kyoung Jae"
+   ],
+   [
+    "Gonzalez-Hernandez",
+    "Graciela"
+   ],
+   [
+    "Moore",
+    "Jason H."
+   ]
+  ],
+  "year": 2023,
+  "title": "ChatGPT and large language models in academia: opportunities and challenges",
+  "subtitle": "",
+  "journal": "BioData Mining",
+  "volume": "16",
+  "issue": "1",
+  "loc": "20",
+  "isArticleNo": true
+ },
+ {
+  "doi": "10.1037/a0024308",
+  "authors": [
+   [
+    "Congleton",
+    "Adam R."
+   ],
+   [
+    "Rajaram",
+    "Suparna"
+   ]
+  ],
+  "year": 2011,
+  "title": "The influence of learning methods on collaboration: Prior repeated retrieval enhances retrieval organization, abolishes collaborative inhibition, and promotes post-collaborative memory.",
+  "subtitle": "",
+  "journal": "Journal of Experimental Psychology: General",
+  "volume": "140",
+  "issue": "4",
+  "loc": "535-551",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1037/tps0000025",
+  "authors": [
+   [
+    "Andrews",
+    "Jessica J."
+   ],
+   [
+    "Rapp",
+    "David N."
+   ]
+  ],
+  "year": 2015,
+  "title": "Benefits, costs, and challenges of collaboration for learning and memory.",
+  "subtitle": "",
+  "journal": "Translational Issues in Psychological Science",
+  "volume": "1",
+  "issue": "2",
+  "loc": "182-191",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.rmal.2023.100050",
+  "authors": [
+   [
+    "Mizumoto",
+    "Atsushi"
+   ],
+   [
+    "Eguchi",
+    "Masaki"
+   ]
+  ],
+  "year": 2023,
+  "title": "Exploring the potential of using an AI language model for automated essay scoring",
+  "subtitle": "",
+  "journal": "Research Methods in Applied Linguistics",
+  "volume": "2",
+  "issue": "2",
+  "loc": "100050",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.5539/hes.v9n3p52",
+  "authors": [
+   [
+    "Nicoletti",
+    "Maria do Carmo"
+   ]
+  ],
+  "year": 2019,
+  "title": "Revisiting the Tinto&amp;#39;s Theoretical Dropout Model",
+  "subtitle": "",
+  "journal": "Higher Education Studies",
+  "volume": "9",
+  "issue": "3",
+  "loc": "52",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.3390/ai4010004",
+  "authors": [
+   [
+    "Rahali",
+    "Abir"
+   ],
+   [
+    "Akhloufi",
+    "Moulay A."
+   ]
+  ],
+  "year": 2023,
+  "title": "End-to-End Transformer-Based Models in Textual-Based NLP",
+  "subtitle": "",
+  "journal": "AI",
+  "volume": "4",
+  "issue": "1",
+  "loc": "54-110",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1007/s11858-020-01130-4",
+  "authors": [
+   [
+    "Verschaffel",
+    "Lieven"
+   ],
+   [
+    "Schukajlow",
+    "Stanislaw"
+   ],
+   [
+    "Star",
+    "Jon"
+   ],
+   [
+    "Van Dooren",
+    "Wim"
+   ]
+  ],
+  "year": 2020,
+  "title": "Word problems in mathematics education: a survey",
+  "subtitle": "",
+  "journal": "ZDM",
+  "volume": "52",
+  "issue": "1",
+  "loc": "1-16",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.3390/educsci13090924",
+  "authors": [
+   [
+    "Singh",
+    "Harpreet"
+   ],
+   [
+    "Tayarani-Najaran",
+    "Mohammad-Hassan"
+   ],
+   [
+    "Yaqoob",
+    "Muhammad"
+   ]
+  ],
+  "year": 2023,
+  "title": "Exploring Computer Science Students’ Perception of ChatGPT in Higher Education: A Descriptive and Correlation Study",
+  "subtitle": "",
+  "journal": "Education Sciences",
+  "volume": "13",
+  "issue": "9",
+  "loc": "924",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1111/bjet.13544",
+  "authors": [
+   [
+    "Fan",
+    "Yizhou"
+   ],
+   [
+    "Tang",
+    "Luzhen"
+   ],
+   [
+    "Le",
+    "Huixiao"
+   ],
+   [
+    "Shen",
+    "Kejie"
+   ],
+   [
+    "Tan",
+    "Shufang"
+   ],
+   [
+    "Zhao",
+    "Yueying"
+   ],
+   [
+    "Shen",
+    "Yuan"
+   ],
+   [
+    "Li",
+    "Xinyu"
+   ],
+   [
+    "Gašević",
+    "Dragan"
+   ]
+  ],
+  "year": 2024,
+  "title": "Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance",
+  "subtitle": "",
+  "journal": "British Journal of Educational Technology",
+  "volume": "56",
+  "issue": "2",
+  "loc": "489-530",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1037/a0039139",
+  "authors": [
+   [
+    "Fisher",
+    "Gwenith G."
+   ],
+   [
+    "Matthews",
+    "Russell A."
+   ],
+   [
+    "Gibbons",
+    "Alyssa Mitchell"
+   ]
+  ],
+  "year": 2016,
+  "title": "Developing and investigating the use of single-item measures in organizational research.",
+  "subtitle": "",
+  "journal": "Journal of Occupational Health Psychology",
+  "volume": "21",
+  "issue": "1",
+  "loc": "3-23",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1207/s15327884mca0503_3",
+  "authors": [
+   [
+    "Ericsson",
+    "K. Anders"
+   ],
+   [
+    "Simon",
+    "Herbert A."
+   ]
+  ],
+  "year": 1998,
+  "title": "How to Study Thinking in Everyday Life: Contrasting Think-Aloud Protocols With Descriptions and Explanations of Thinking",
+  "subtitle": "",
+  "journal": "Mind, Culture, and Activity",
+  "volume": "5",
+  "issue": "3",
+  "loc": "178-186",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1609/aaai.v38i21.30364",
+  "authors": [
+   [
+    "Cohn",
+    "Clayton"
+   ],
+   [
+    "Hutchins",
+    "Nicole"
+   ],
+   [
+    "Le",
+    "Tuan"
+   ],
+   [
+    "Biswas",
+    "Gautam"
+   ]
+  ],
+  "year": 2024,
+  "title": "A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students’ Formative Assessment Responses in Science",
+  "subtitle": "",
+  "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "volume": "38",
+  "issue": "21",
+  "loc": "23182-23190",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1177/0018720814547570",
+  "authors": [
+   [
+    "Hoff",
+    "Kevin Anthony"
+   ],
+   [
+    "Bashir",
+    "Masooda"
+   ]
+  ],
+  "year": 2014,
+  "title": "Trust in Automation",
+  "subtitle": "Integrating Empirical Evidence on Factors That Influence Trust",
+  "journal": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+  "volume": "57",
+  "issue": "3",
+  "loc": "407-434",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1504/ijbra.2010.036001",
+  "authors": [
+   [
+    "Stoutenburg",
+    "Suzette K."
+   ],
+   [
+    "Kalita",
+    "Jugal"
+   ],
+   [
+    "Ewing",
+    "Kaily"
+   ],
+   [
+    "Hines",
+    "Lisa M."
+   ]
+  ],
+  "year": 2010,
+  "title": "Scaling alignment of large ontologies",
+  "subtitle": "",
+  "journal": "International Journal of Bioinformatics Research and Applications",
+  "volume": "6",
+  "issue": "4",
+  "loc": "384",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.jvsvi.2023.100049",
+  "authors": [
+   [
+    "Javidan",
+    "Arshia P."
+   ],
+   [
+    "Feridooni",
+    "Tiam"
+   ],
+   [
+    "Gordon",
+    "Lauren"
+   ],
+   [
+    "Crawford",
+    "Sean A."
+   ]
+  ],
+  "year": 2024,
+  "title": "Evaluating the progression of artificial intelligence and large language models in medicine through comparative analysis of ChatGPT-3.5 and ChatGPT-4 in generating vascular surgery recommendations",
+  "subtitle": "",
+  "journal": "JVS-Vascular Insights",
+  "volume": "2",
+  "issue": "",
+  "loc": "100049",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1038/s41598-024-63629-0",
+  "authors": [
+   [
+    "Psyridou",
+    "Maria"
+   ],
+   [
+    "Prezja",
+    "Fabi"
+   ],
+   [
+    "Torppa",
+    "Minna"
+   ],
+   [
+    "Lerkkanen",
+    "Marja-Kristiina"
+   ],
+   [
+    "Poikkeus",
+    "Anna-Maija"
+   ],
+   [
+    "Vasalampi",
+    "Kati"
+   ]
+  ],
+  "year": 2024,
+  "title": "Machine learning predicts upper secondary education dropout as early as the end of primary school",
+  "subtitle": "",
+  "journal": "Scientific Reports",
+  "volume": "14",
+  "issue": "1",
+  "loc": "12956",
+  "isArticleNo": true
+ },
+ {
+  "doi": "10.1016/j.lindif.2017.11.015",
+  "authors": [
+   [
+    "Talsma",
+    "Kate"
+   ],
+   [
+    "Schüz",
+    "Benjamin"
+   ],
+   [
+    "Schwarzer",
+    "Ralf"
+   ],
+   [
+    "Norris",
+    "Kimberley"
+   ]
+  ],
+  "year": 2018,
+  "title": "I believe, therefore I achieve (and vice versa): A meta-analytic cross-lagged panel analysis of self-efficacy and academic performance",
+  "subtitle": "",
+  "journal": "Learning and Individual Differences",
+  "volume": "61",
+  "issue": "",
+  "loc": "136-150",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.3390/educsci12040266",
+  "authors": [
+   [
+    "Doz",
+    "Daniel"
+   ],
+   [
+    "Felda",
+    "Darjo"
+   ],
+   [
+    "Cotič",
+    "Mara"
+   ]
+  ],
+  "year": 2022,
+  "title": "Assessing Students’ Mathematical Knowledge with Fuzzy Logic",
+  "subtitle": "",
+  "journal": "Education Sciences",
+  "volume": "12",
+  "issue": "4",
+  "loc": "266",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.4018/ijdet.305237",
+  "authors": [
+   [
+    "Bóbó",
+    "Míria L. D. R."
+   ],
+   [
+    "Campos",
+    "Fernanda"
+   ],
+   [
+    "Stroele",
+    "Victor"
+   ],
+   [
+    "David",
+    "José Maria N."
+   ],
+   [
+    "Braga",
+    "Regina"
+   ],
+   [
+    "Torrent",
+    "Tiago Timponi"
+   ]
+  ],
+  "year": 2022,
+  "title": "Using Sentiment Analysis to Identify Student Emotional State to Avoid Dropout in E-Learning",
+  "subtitle": "",
+  "journal": "International Journal of Distance Education Technologies",
+  "volume": "20",
+  "issue": "1",
+  "loc": "1-24",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.5336/ophthal.2024-102632",
+  "authors": [
+   [
+    "CANLEBLEBİCİ",
+    "Mehmet"
+   ],
+   [
+    "DAL",
+    "Ali"
+   ],
+   [
+    "ERDAĞ",
+    "Murat"
+   ]
+  ],
+  "year": 2024,
+  "title": "Evaluation of the Performance of Large Language Models (ChatGPT-3.5, ChatGPT-4, Bing and Bard) in Turkish Ophthalmology Chief-Assistant Exams: A Comparative Study",
+  "subtitle": "",
+  "journal": "Turkiye Klinikleri Journal of Ophthalmology",
+  "volume": "33",
+  "issue": "3",
+  "loc": "163-170",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1111/bjet.12984",
+  "authors": [
+   [
+    "Salas‐Pilco",
+    "Sdenka Zobeida"
+   ]
+  ],
+  "year": 2020,
+  "title": "The impact of AI and robotics on physical, social‐emotional and intellectual learning outcomes: An integrated analytical framework",
+  "subtitle": "",
+  "journal": "British Journal of Educational Technology",
+  "volume": "51",
+  "issue": "5",
+  "loc": "1808-1825",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.chb.2022.107266",
+  "authors": [
+   [
+    "Antonietti",
+    "Chiara"
+   ],
+   [
+    "Cattaneo",
+    "Alberto"
+   ],
+   [
+    "Amenduni",
+    "Francesca"
+   ]
+  ],
+  "year": 2022,
+  "title": "Can teachers’ digital competence influence technology acceptance in vocational education?",
+  "subtitle": "",
+  "journal": "Computers in Human Behavior",
+  "volume": "132",
+  "issue": "",
+  "loc": "107266",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.learninstruc.2011.01.001",
+  "authors": [
+   [
+    "Kirschner",
+    "Femke"
+   ],
+   [
+    "Paas",
+    "Fred"
+   ],
+   [
+    "Kirschner",
+    "Paul A."
+   ],
+   [
+    "Janssen",
+    "Jeroen"
+   ]
+  ],
+  "year": 2011,
+  "title": "Differential effects of problem-solving demands on individual and collaborative learning outcomes",
+  "subtitle": "",
+  "journal": "Learning and Instruction",
+  "volume": "21",
+  "issue": "4",
+  "loc": "587-599",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1111/bjep.12442",
+  "authors": [
+   [
+    "Lin",
+    "Tzu‐Jung"
+   ],
+   [
+    "Kraatz",
+    "Elizabeth"
+   ],
+   [
+    "Ha",
+    "Seung Yon"
+   ],
+   [
+    "Hsieh",
+    "Ming‐Yi"
+   ],
+   [
+    "Glassman",
+    "Michael"
+   ],
+   [
+    "Nagpal",
+    "Manisha"
+   ],
+   [
+    "Sallade",
+    "Rebecca"
+   ],
+   [
+    "Shin",
+    "Sangin"
+   ]
+  ],
+  "year": 2021,
+  "title": "Shaping classroom social experiences through collaborative small‐group discussions",
+  "subtitle": "",
+  "journal": "British Journal of Educational Psychology",
+  "volume": "92",
+  "issue": "1",
+  "loc": "131-154",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.eswa.2018.07.026",
+  "authors": [
+   [
+    "Cetinic",
+    "Eva"
+   ],
+   [
+    "Lipic",
+    "Tomislav"
+   ],
+   [
+    "Grgic",
+    "Sonja"
+   ]
+  ],
+  "year": 2018,
+  "title": "Fine-tuning Convolutional Neural Networks for fine art classification",
+  "subtitle": "",
+  "journal": "Expert Systems with Applications",
+  "volume": "114",
+  "issue": "",
+  "loc": "107-118",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1080/08957347.2014.1002920",
+  "authors": [
+   [
+    "Powers",
+    "Donald E."
+   ],
+   [
+    "Escoffery",
+    "David S."
+   ],
+   [
+    "Duchnowski",
+    "Matthew P."
+   ]
+  ],
+  "year": 2015,
+  "title": "Validating Automated Essay Scoring: A (Modest) Refinement of the “Gold Standard”",
+  "subtitle": "",
+  "journal": "Applied Measurement in Education",
+  "volume": "28",
+  "issue": "2",
+  "loc": "130-142",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1007/s10639-022-11120-6",
+  "authors": [
+   [
+    "Jang",
+    "Yeonju"
+   ],
+   [
+    "Choi",
+    "Seongyune"
+   ],
+   [
+    "Jung",
+    "Heeseok"
+   ],
+   [
+    "Kim",
+    "Hyeoncheol"
+   ]
+  ],
+  "year": 2022,
+  "title": "Practical early prediction of students’ performance using machine learning and eXplainable AI",
+  "subtitle": "",
+  "journal": "Education and Information Technologies",
+  "volume": "27",
+  "issue": "9",
+  "loc": "12855-12889",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1080/03610927408827101",
+  "authors": [
+   [
+    "Caliński",
+    "T."
+   ],
+   [
+    "Harabasz",
+    "J"
+   ]
+  ],
+  "year": 1974,
+  "title": "A dendrite method for cluster analysis",
+  "subtitle": "",
+  "journal": "Communications in Statistics",
+  "volume": "3",
+  "issue": "1",
+  "loc": "1-27",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1007/s11280-022-01025-2",
+  "authors": [
+   [
+    "Madukwe",
+    "Kosisochukwu Judith"
+   ],
+   [
+    "Gao",
+    "Xiaoying"
+   ],
+   [
+    "Xue",
+    "Bing"
+   ]
+  ],
+  "year": 2022,
+  "title": "Token replacement-based data augmentation methods for hate speech detection",
+  "subtitle": "",
+  "journal": "World Wide Web",
+  "volume": "25",
+  "issue": "3",
+  "loc": "1129-1150",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.eswa.2022.117315",
+  "authors": [
+   [
+    "Birla",
+    "Nayna"
+   ],
+   [
+    "Kumar Jain",
+    "Manoj"
+   ],
+   [
+    "Panwar",
+    "Avinash"
+   ]
+  ],
+  "year": 2022,
+  "title": "Automated assessment of subjective assignments: A hybrid approach",
+  "subtitle": "",
+  "journal": "Expert Systems with Applications",
+  "volume": "203",
+  "issue": "",
+  "loc": "117315",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.19173/irrodl.v22i4.5474",
+  "authors": [
+   [
+    "Hsu",
+    "Ting-Chia"
+   ],
+   [
+    "Abelson",
+    "Hal"
+   ],
+   [
+    "Van Brummelen",
+    "Jessica"
+   ]
+  ],
+  "year": 2022,
+  "title": "The Effects on Secondary School Students of Applying Experiential Learning to the Conversational AI Learning Curriculum",
+  "subtitle": "",
+  "journal": "The International Review of Research in Open and Distributed Learning",
+  "volume": "23",
+  "issue": "1",
+  "loc": "82-103",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1002/acp.3444",
+  "authors": [
+   [
+    "Retnowati",
+    "Endah"
+   ],
+   [
+    "Ayres",
+    "Paul"
+   ],
+   [
+    "Sweller",
+    "John"
+   ]
+  ],
+  "year": 2018,
+  "title": "Collaborative learning effects when students have complete or incomplete knowledge",
+  "subtitle": "",
+  "journal": "Applied Cognitive Psychology",
+  "volume": "32",
+  "issue": "6",
+  "loc": "681-692",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1093/ijpor/10.2.177",
+  "authors": [
+   [
+    "Schwarz",
+    "N."
+   ],
+   [
+    "Grayson",
+    "C. E."
+   ],
+   [
+    "Knauper",
+    "B."
+   ]
+  ],
+  "year": 1998,
+  "title": "FORMAL FEATURES OF RATING SCALES AND THE INTERPRETATION OF QUESTION MEANING",
+  "subtitle": "",
+  "journal": "International Journal of Public Opinion Research",
+  "volume": "10",
+  "issue": "2",
+  "loc": "177-183",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.3389/fenrg.2021.652801",
+  "authors": [
+   [
+    "Fan",
+    "Cheng"
+   ],
+   [
+    "Chen",
+    "Meiling"
+   ],
+   [
+    "Wang",
+    "Xinghua"
+   ],
+   [
+    "Wang",
+    "Jiayuan"
+   ],
+   [
+    "Huang",
+    "Bufu"
+   ]
+  ],
+  "year": 2021,
+  "title": "A Review on Data Preprocessing Techniques Toward Efficient and Reliable Knowledge Discovery From Building Operational Data",
+  "subtitle": "",
+  "journal": "Frontiers in Energy Research",
+  "volume": "9",
+  "issue": "",
+  "loc": "652801",
+  "isArticleNo": true
+ },
+ {
+  "doi": "10.3758/s13428-012-0214-0",
+  "authors": [
+   [
+    "Hastings",
+    "Peter"
+   ],
+   [
+    "Hughes",
+    "Simon"
+   ],
+   [
+    "Magliano",
+    "Joseph P."
+   ],
+   [
+    "Goldman",
+    "Susan R."
+   ],
+   [
+    "Lawless",
+    "Kimberly"
+   ]
+  ],
+  "year": 2012,
+  "title": "Assessing the use of multiple sources in student essays",
+  "subtitle": "",
+  "journal": "Behavior Research Methods",
+  "volume": "44",
+  "issue": "3",
+  "loc": "622-633",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1080/10691898.2020.1851159",
+  "authors": [
+   [
+    "Schwab-McCoy",
+    "Aimee"
+   ],
+   [
+    "Baker",
+    "Catherine M."
+   ],
+   [
+    "Gasper",
+    "Rebecca E."
+   ]
+  ],
+  "year": 2021,
+  "title": "Data Science in 2020: Computing, Curricula, and Challenges for the Next 10 Years",
+  "subtitle": "",
+  "journal": "Journal of Statistics and Data Science Education",
+  "volume": "29",
+  "issue": "sup1",
+  "loc": "S40-S50",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1016/j.gltp.2022.04.020",
+  "authors": [
+   [
+    "Maharana",
+    "Kiran"
+   ],
+   [
+    "Mondal",
+    "Surajit"
+   ],
+   [
+    "Nemade",
+    "Bhushankumar"
+   ]
+  ],
+  "year": 2022,
+  "title": "A review: Data pre-processing and data augmentation techniques",
+  "subtitle": "",
+  "journal": "Global Transitions Proceedings",
+  "volume": "3",
+  "issue": "1",
+  "loc": "91-99",
+  "isArticleNo": false
+ },
+ {
+  "doi": "10.1177/0013164419860575",
+  "authors": [
+   [
+    "LaVoie",
+    "Noelle"
+   ],
+   [
+    "Parker",
+    "James"
+   ],
+   [
+    "Legree",
+    "Peter J."
+   ],
+   [
+    "Ardison",
+    "Sharon"
+   ],
+   [
+    "Kilcullen",
+    "Robert N."
+   ]
+  ],
+  "year": 2019,
+  "title": "Using Latent Semantic Analysis to Score Short Answer Constructed Responses: Automated Scoring of the Consequences Test",
+  "subtitle": "",
+  "journal": "Educational and Psychological Measurement",
+  "volume": "80",
+  "issue": "2",
+  "loc": "399-414",
+  "isArticleNo": false
+ }
+]

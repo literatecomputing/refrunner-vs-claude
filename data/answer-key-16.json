@@ -1,0 +1,18 @@
+[
+ {"n":1,"kind":"real","note":"Accurate."},
+ {"n":2,"kind":"real","note":"Accurate (online Dec 2014, issue 2015)."},
+ {"n":3,"kind":"real","note":"Accurate."},
+ {"n":4,"kind":"real","note":"Accurate."},
+ {"n":5,"kind":"real","note":"Accurate."},
+ {"n":6,"kind":"real","note":"Accurate."},
+ {"n":7,"kind":"real","note":"Accurate; published Aug 2026, after Claude's training cutoff."},
+ {"n":8,"kind":"real","note":"Accurate; published Aug 2026, after Claude's training cutoff. (Ocumpaugh is spelled Ccumpaugh in the Crossref record.)"},
+ {"n":9,"kind":"retracted","note":"Real, retracted Apr 2026 (10.1057/s41599-026-07310-z)."},
+ {"n":10,"kind":"retracted","note":"Real, retracted Apr 2026 (10.1002/berj.70189)."},
+ {"n":11,"kind":"fabricated","note":"Invented; the DOI does not exist."},
+ {"n":12,"kind":"fabricated","note":"Invented; Computers & Education 198, 104762 is a different paper (Lin et al., multilevel modeling review)."},
+ {"n":13,"kind":"fabricated","note":"Invented book."},
+ {"n":14,"kind":"wrong-title","note":"Real locator and authors, invented title. Real title: Development and techniques in learner model in adaptive e-learning system: A systematic review."},
+ {"n":15,"kind":"wrong-authors","note":"Real title and locator; the authors are Baker & Hawn, not Kizilcec & Lee."},
+ {"n":16,"kind":"wrong-details","note":"Real paper; year is 2025 (not 2023) and the DOI has two digits swapped (105208, not 105280; the cited DOI does not exist)."}
+]
