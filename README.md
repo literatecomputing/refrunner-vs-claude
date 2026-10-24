@@ -6,9 +6,7 @@ caught. This repository holds everything needed to check our grading or run
 the test again: the lists, the answer keys, every raw answer, and the
 scripts.
 
-It was prompted by a journal board that declined RefRunner because its
-members "already use Claude for reference checking". That is a fair
-question, so we measured it.
+It was prompted by LinkedIn posts about how to stop Claude from inventing references. Invented references are a big part of why people want a tool like RefRunner, and if people are asking Claude not to invent references, some will also ask it to check them. So we measured how well it does.
 
 ## The 85-reference test
 
