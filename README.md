@@ -130,3 +130,7 @@ these six.
 - One model (Claude Opus 5.5), one month (October 2026). Three runs of each
   search setup; plain chat ran once on the 85-reference list (three times on
   the 16).
+
+## License
+
+MIT. See `LICENSE`.

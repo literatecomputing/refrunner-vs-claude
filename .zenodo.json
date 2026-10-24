@@ -3,7 +3,10 @@
   "title": "Can Claude check a reference list? RefRunner vs. Claude, October 2026",
   "description": "Two reference lists (85 and 16 references) with planted problems (retracted papers, invented references, and real papers with one detail wrong), their answer keys, every raw answer from Claude Opus 5.5 (plain chat, web search, and web search told to look up every entry) and from RefRunner, and the scripts that ran and graded them.",
   "creators": [
-    { "name": "Pfaffman, Jay", "affiliation": "Literate Computing" }
+    {
+      "name": "Pfaffman, Jay",
+      "affiliation": "Literate Computing"
+    }
   ],
   "keywords": [
     "reference checking",
@@ -13,5 +16,6 @@
     "large language models",
     "Claude",
     "RefRunner"
-  ]
+  ],
+  "license": "MIT"
 }

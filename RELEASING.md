@@ -7,9 +7,7 @@ written for the maintainers, human or AI agent.
 
 - The README's numbers must come from the files in this repository. Check
   them with the two graders (see "Checking our grading" in the README).
-- Choose a license and add a `LICENSE` file, plus a `license` field in
-  `.zenodo.json`. Not yet decided. A common choice is CC BY 4.0 for the data
-  and MIT for the scripts.
+- The repository is MIT licensed (`LICENSE`, and `license` in `.zenodo.json`).
 
 ## Archiving on Zenodo
 
